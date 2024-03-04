@@ -1,2 +1,2 @@
-# C-lculo-Bin-rio-Decimal
+# Calculo-Binario-Decimal
 Projeto de algoritmo feito na linguagem Java para converter números de binário para decimal e de decimal para binário.
