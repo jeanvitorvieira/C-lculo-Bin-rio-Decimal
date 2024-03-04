@@ -61,7 +61,7 @@ public class CalculadoraBinDec {
                     break;
                 }
                 // Apenas opções permitidas
-                if (con != 1 || con != 2) {
+                if (con != 1 && con != 2) {
                     System.out.println("Opção inválida! \n");
                     break;
                 }
